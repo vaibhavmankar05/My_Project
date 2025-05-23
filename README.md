@@ -1,2 +1,2 @@
 # My_Project
-DE Project
+My DE Project
